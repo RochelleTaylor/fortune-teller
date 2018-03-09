@@ -1,8 +1,8 @@
 Develop a console application that will tell the user’s fortune based on data received from the user.
 
 Skills Required
--Variables and Basic Types
--Operators and Expressions
+[-]Variables and Basic Types
+[-]Operators and Expressions
 -Conditionals
 -Strings
 Tasks
